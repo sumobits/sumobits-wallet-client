@@ -1,0 +1,17 @@
+{
+  "app.title": "Sumobits Wallet",
+  "error.title": "Error",
+  "wallet.passcode.placeholder": "Wallet passcode",
+  "create.wallet.button": "Create Wallet",
+  "open.wallet.button": "Open Wallet",
+  "tab.history.label": "History",
+  "tab.preferences.label": "Preferences",
+  "tab.transfers.label": "Transfers",
+  "tab.send.label": "Send",
+  "tab.receive.label": "Receive",
+  "history.sender.label": "Sender",
+  "history.recipient.label": "Recipient",
+  "history.amount.label": "Amount",
+  "history.timestamp.label": "Timestamp",
+  "history.confirmations.label": "Confirmations"
+}
